@@ -1,6 +1,2 @@
 www.runoob.com
-<<<<<<< HEAD
 master add
-=======
-change_site add
->>>>>>> change_site
